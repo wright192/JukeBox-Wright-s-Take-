@@ -1,5 +1,5 @@
 # JukeBox (Wright's Take)
-JukeBox is an online tool for sketching and sharing instrumental music jukeebox.github.io
+JukeBox is an online tool for sketching and sharing instrumental music
 
 
 JukeBox is a mod of Ultrabox that aims to advance Beepbox's capabilities. Feel free to contribute!
