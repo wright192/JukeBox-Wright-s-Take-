@@ -1,8 +1,8 @@
 # JukeBox (Wright's Take)
-Slarmoo's Box is an online tool for sketching and sharing instrumental music.
-It is a modification of [Ultrabox](https://ultraabox.github.io), which is a modification of [JummBox](https://github.com/jummbus/jummbox), which inturn is a modification of the [original BeepBox](https://beepbox.co).
-jc please see thiz
-Slarmoo's Box is a mod of Ultrabox that aims to advance Beepbox's capabilities. Feel free to contribute!
+JukeBox is an online tool for sketching and sharing instrumental music jukeebox.github.io
+
+
+JukeBox is a mod of Ultrabox that aims to advance Beepbox's capabilities. Feel free to contribute!
 
 
 All song data is packaged into the URL at the top of your browser. When you make
@@ -10,7 +10,7 @@ changes to the song, the URL is updated to reflect your changes. When you are
 satisfied with your song, just copy and paste the URL to save and share your
 song!
 
-Slarmoo's Box, as well as the beepmods which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
+JukeBox, as well as the beepmods which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)!
 
 ## Compiling
@@ -23,7 +23,7 @@ The source code is available under the MIT license. The code is written in
 build this project, open a command line ([Git Bash](https://gitforwindows.org/)) and run:
 
 ```
-git clone https://github.com/slarmoo/slarmoosbox.git
+git clone jukeebox.github.io
 cd slarmoosbox
 npm install
 npm run build
